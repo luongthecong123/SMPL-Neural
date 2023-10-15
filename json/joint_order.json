@@ -1,0 +1,20 @@
+{
+    "leftHip": [1],
+    "rightHip": [2],
+    "leftKnee": [4], 
+    "rightKnee": [5],
+    "leftAnkle": [7],
+    "rightAnkle": [8],
+    "leftFoot": [10],
+    "rightFoot": [11],
+    "leftCollar": [13],
+    "rightCollar": [14],
+    "leftShoulder": [16],
+    "rightShoulder": [17],
+    "leftElbow": [18],
+    "rightElbow": [19],
+    "leftWrist": [20],
+    "rightWrist": [21],
+    "leftHand": [22],
+    "rightHand": [23]
+}
